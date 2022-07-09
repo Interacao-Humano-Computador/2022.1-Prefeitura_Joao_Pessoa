@@ -15,9 +15,8 @@ A metodologia adotada é baseada na Engenharia de Usabilidade de Mayhew que reun
 
 - **Instalação** : A equipe deve coletar opiniões de usuários com algum tempo de uso do sistema com a nova implementação e organizar esses novos dados para serem usados em futuras versões e melhorias do sistema.
 
-
-<img align="center" width="600" src="https://github.com/Interacao-Humano-Computador/2022.1-Grupo-04/blob/main/docs/Planejamento/images/EngUsaMayhew.jpeg">
-<figcaption class:"center"> Fonte: BARBOSA E SILVA, Simone Diniz e Bruno Santana- Interação Humano-Computador, Cap. 4, página 110 </figcaption>
+![Mayhew](./images/Mayhew.png)
+Fonte: BARBOSA E SILVA, Simone Diniz e Bruno Santana- Interação Humano-Computador, Cap. 4, página 110 
 
 ## Versionamento
 
