@@ -4,11 +4,11 @@ has_children: false
 nav_order: 1
 ---
 
-# Titulo
+# Prefeitura de João Pessoa
 
-Descrição do site Descrição do site Descrição do site Descrição do site Descrição do site Descrição do site
+![image](https://user-images.githubusercontent.com/86726332/178394865-e1a70c08-9fa8-4711-8446-4aaee23d861f.png)
 
-Foto da logo do site
+Site dedicado à população de João Pessoa, onde se encontram informações e serviços oferecidos pelo governo local.
 
 ## Sobre o Projeto
 
@@ -26,4 +26,5 @@ Histórico
 
 | Data  | Versão |     Descrição     |    Autor    |
 |:-----:|:------:|:-----------------:|:-----------:|
-| 08/07 |   V0   | Criação da página | Tiago Buson |
+| 08/07 |   0   | Criação da página | Tiago Buson |
+| 11/07 |   0.1   | atualização | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
