@@ -5,13 +5,6 @@ has_children: false
 nav_order: 2
 ---
 
-## Versionamento
-
-| Data  | Versão |     Descrição     |    Autor    |
-|:-----:|:------:|:-----------------:|:-----------:|
-| 08/07 |   V0   | Criação da página | Tiago Buson |
-| 08/07 |   V1   | Criação do documento | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
-
 # 1. Conceito
 
 O processo de design envolve três astivides, são elas:
@@ -72,3 +65,10 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
 Humano-Computador e Experiência do usuário. Autopublicação.
+
+## Versionamento
+
+| Data  | Versão |      Descrição       |                           Autor                            |
+|:-----:|:------:|:--------------------:|:----------------------------------------------------------:|
+| 08/07 |   V0   |  Criação da página   |                        Tiago Buson                         |
+| 08/07 |   V1   | Criação do documento | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
