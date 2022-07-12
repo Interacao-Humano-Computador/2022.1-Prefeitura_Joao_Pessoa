@@ -48,7 +48,7 @@ Nessa etapa avalia-se o storyboard e análise de tarefas
 
 |                                  Tarefa                                  | Data limite |    Autor(es)     | Revisor  |
 |:------------------------------------------------------------------------:|:-----------:|:----------------:|:--------:|
-|                 Planejamento da Avaliação do Storyboard                  |    11/08    |     Gabriela     |  Renann  |
+|                 Planejamento da Avaliação do Storyboard                  |    11/08    |     Gabrielly     |  Renann  |
 |     Planejamento do relato dos resultados da avaliação do Storyboard     |    11/08    | Nicolas e Renann | Gabrielly |
 |             Planejamento da Avaliação do Análise de tarefas              |    11/08    |      Paulo       | Gabrielly |
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas |    11/08    |  Tiago e Paulo   | Gabrielly |
