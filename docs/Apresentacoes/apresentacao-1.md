@@ -9,7 +9,7 @@ nav_order: 1
 
 ## 1. Planejamento e Processo de Design - 12/07/2022
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vMZaCvZAWsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### [Link da Apresentação 1 no Youtube](https://www.youtube.com/watch?v=vMZaCvZAWsk)
 
 ## Versionamento
 

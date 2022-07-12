@@ -71,4 +71,4 @@ Humano-Computador e Experiência do usuário. Autopublicação.
 | Data  | Versão |      Descrição       |                           Autor                            |
 |:-----:|:------:|:--------------------:|:----------------------------------------------------------:|
 | 08/07 |   V0   |  Criação da página   |                        Tiago Buson                         |
-| 08/07 |   V1   | Criação do documento | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
+| 08/07 |  V1.0  | Criação do documento | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
