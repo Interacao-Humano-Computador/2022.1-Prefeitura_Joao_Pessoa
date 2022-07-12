@@ -21,7 +21,7 @@ Nessa etapa o foco é observar os site avaliados por cada integrante, entender o
 |    Ferramentas     |    11/07    | Tiago Buson |   Renann    |
 |   Lista de Sites   |    11/07    |   Nicolas   | Tiago Buson |
 |   Site escolhido   |    11/07    |   Nicolas   | Tiago Buson |
-| Processo de Design |    11/07    |  Gabriela   | Tiago Buson |
+| Processo de Design |    11/07    |  Gabrielly   | Tiago Buson |
 
 ## Apresentação da etapa 2 (21/07)
 Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim podermos desenvolver uma pesquisa mais precisa e específica.
@@ -29,7 +29,7 @@ Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim
 |                     Tarefa                      | Data limite |    Autor(es)     | Revisor |
 |:-----------------------------------------------:|:-----------:|:----------------:|:-------:|
 |                Perfil do usuário                |    20/07    |      Renann      | Nicolas |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas |    20/07    | Gabriela e Tiago | Nicolas |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas |    20/07    | Gabrielly e Tiago | Nicolas |
 |          Personas e Análise de tarefas          |    20/07    | Nicolas e Paulo  | Renann  |
 
 ## Apresentação da etapa 3 (02/08)
@@ -38,7 +38,7 @@ Nessa etapa é avaliado quais metas devem ser atingidas e define o guia de estil
 
 |            Tarefa            | Data limite |     Autor(es)     | Revisor |
 |:----------------------------:|:-----------:|:-----------------:|:-------:|
-| Princípios Gerais de Projeto |    01/08    | Renann e Gabriela |  Paulo  |
+| Princípios Gerais de Projeto |    01/08    | Renann e Gabrielly |  Paulo  |
 |     Metas de usabilidade     |    01/08    |  Nicolas e Paulo  | Renann  |
 |        Guia de Estilo        |    01/08    |       Tiago       |  Paulo  |
 
@@ -49,9 +49,9 @@ Nessa etapa avalia-se o storyboard e análise de tarefas
 |                                  Tarefa                                  | Data limite |    Autor(es)     | Revisor  |
 |:------------------------------------------------------------------------:|:-----------:|:----------------:|:--------:|
 |                 Planejamento da Avaliação do Storyboard                  |    11/08    |     Gabriela     |  Renann  |
-|     Planejamento do relato dos resultados da avaliação do Storyboard     |    11/08    | Nicolas e Renann | Gabriela |
-|             Planejamento da Avaliação do Análise de tarefas              |    11/08    |      Paulo       | Gabriela |
-| Planejamento do relato dos resultados da avaliação do Análise de tarefas |    11/08    |  Tiago e Paulo   | Gabriela |
+|     Planejamento do relato dos resultados da avaliação do Storyboard     |    11/08    | Nicolas e Renann | Gabrielly |
+|             Planejamento da Avaliação do Análise de tarefas              |    11/08    |      Paulo       | Gabrielly |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas |    11/08    |  Tiago e Paulo   | Gabrielly |
 
 ## Apresentação da etapa 5 (18/08)
 
@@ -60,7 +60,7 @@ Nessa etapa com base nos resultados da etapa anterior planeja-se a avaliação d
 |                                  Tarefa                                  | Data limite |    Autor(es)     | Revisor |
 |:------------------------------------------------------------------------:|:-----------:|:----------------:|:-------:|
 |       Relato dos resultados do Story Board e da Análise de tarefas       |    17/08    |  Renann e Tiago  |  Paulo  |
-|             Planejamento da Avaliação do Protótipo de Papel              |    17/08    | Gabriela e Paulo |  Tiago  |
+|             Planejamento da Avaliação do Protótipo de Papel              |    17/08    | Gabrielly e Paulo |  Tiago  |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |    17/08    |     Nicolas      |  Tiago  |
 
 ## Apresentação da etapa 6 (23/08)
@@ -77,7 +77,7 @@ Nessa etapa o foco é a elaboração de um protótipo de alta fidelidade e plane
 
 |                                       Tarefa                                        | Data limite |    Autor(es)     | Revisor |
 |:-----------------------------------------------------------------------------------:|:-----------:|:----------------:|:-------:|
-|                     Relato dos resultados do Protótipo de Papel                     |    05/09    |     Gabriela     | Renann  |
+|                     Relato dos resultados do Protótipo de Papel                     |    05/09    |     Gabrielly     | Renann  |
 |              Planejamento da Avaliação do protótipo de alta fidelidade              |    05/09    | Renann e Nicolas |  Tiago  |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade. |    05/09    |  Tiago e Paulo   | Renann  |
 
