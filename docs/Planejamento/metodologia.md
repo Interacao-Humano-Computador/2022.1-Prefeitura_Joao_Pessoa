@@ -62,6 +62,14 @@ No nosso caso foi adotada uma única reunião que ocorrerá durante a sprint, ou
 [1] SCRUM, Metodologia Ágil. Disponível em: https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)
 [2] SALES, André Barros. PLANO DE ENSINO, Faculdade UnB Gama - 01/2022. Disponível em: https://aprender3.unb.br/pluginfile.php/2124133/mod_resource/content/23/Plano_de_Ensino%20FIHC%20202201%20Turma%202.pdf
 
+Durante a elaboração desse documento alguns documentos de metodologia de equipe anteriores foram usados como base, sendo eles: 
+
+- [Metodologia do projeto BCE](https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_1/metodologia_do_projeto)
+
+- [Metodologia do projeto FAU-Faculdade de Arquitetura e Urbanismo](https://interacao-humano-computador.github.io/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/)
+
+- [Metodologia do projeto Dominio Publico](https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/planejamentoDoProjeto/metodologias)
+
 ## Versionamento
 
 | Data  | Versão |     Descrição      |    Autor    |
