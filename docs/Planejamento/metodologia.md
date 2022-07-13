@@ -16,11 +16,15 @@ A metodologia adotada é baseada na Engenharia de Usabilidade de Mayhew que reú
 - **Instalação** : A equipe deve coletar opiniões de usuários com algum tempo de uso do sistema com a nova implementação e organizar esses novos dados para serem usados em futuras versões e melhorias do sistema.
 
 ![Mayhew](../assets/images/Mayhew.png)
+<h6>Imagem 1: Engenharia de Usabilidade Mayhew</h6>
+
+# Bibliografia
+
 Fonte: BARBOSA E SILVA, Simone Diniz e Bruno Santana- Interação Humano-Computador, Cap. 4, página 110 
 
 ## Versionamento
 
 | Data  | Versão |     Descrição      |    Autor    |
 |:-----:|:------:|:------------------:|:-----------:|
-| 08/07 |   0   | Criação da página  | [Tiago Buson](https://github.com/TiagoBuson) |
-| 10/07 |  0.1  | Adição de conteudo |   [Rennan]    (https://github.com/NyndoND)|
+| 08/07 |   0   | Criação da página  | [Tiago](https://github.com/TiagoBuson)|
+| 10/07 |  0.1  | Adição de conteudo |   [Rennan](https://github.com/NyndoND)|
