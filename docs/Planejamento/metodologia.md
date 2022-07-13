@@ -22,5 +22,5 @@ Fonte: BARBOSA E SILVA, Simone Diniz e Bruno Santana- Interação Humano-Computa
 
 | Data  | Versão |     Descrição      |    Autor    |
 |:-----:|:------:|:------------------:|:-----------:|
-| 08/07 |   V0   | Criação da página  | Tiago Buson |
-| 10/07 |  V1.0  | Adição de conteudo |   Rennan    |
+| 08/07 |   0   | Criação da página  | [Tiago Buson](https://github.com/TiagoBuson) |
+| 10/07 |  0.1  | Adição de conteudo |   [Rennan]    (https://github.com/NyndoND)|
