@@ -19,13 +19,13 @@ Site dedicado à população de João Pessoa, onde se encontram informações e 
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/GabriellyAssuncao" target="_blank"><img style="border-radius: 50%;" src="assets/gaby2.jpeg" width="130px;"><br /><b>Gabrielly Assunção</a></a><br /><a href="https://github.com/GabriellyAssuncao" target="_blank"></a>
+        <td align="center"><a href="https://github.com/GabriellyAssuncao" target="_blank"><img style="border-radius: 50%;" src="assets/gaby2.jpeg" width="130px;"><br /><b>Gabrielly Assunção</a><br /><a href="https://github.com/GabriellyAssuncao" target="_blank"></a>
         </td>
-        <td align="center"><a href="https://github.com/Nicolas-Roberto" target="_blank"><img style="border-radius: 50%;" src="assets/nicolas.jpg" width="130px;"><br /><b>Nicolas Queiroz</b></sub></a><br /><a href="https://github.com/Nicolas-Roberto" target="_blank"></a>
+        <td align="center"><a href="https://github.com/Nicolas-Roberto" target="_blank"><img style="border-radius: 50%;" src="assets/nicolas.jpg" width="130px;"><br /><b>Nicolas Queiroz</b></a><br /><a href="https://github.com/Nicolas-Roberto" target="_blank"></a>
         </td>
-        <td align="center"><a href="https://github.com/NyndoND" target="_blank"><img style="border-radius: 50%;" src="assets/renann.jpg" width="130px;"><br/><b>Renann de Oliveira</b></sub></a><br /><a href="https://github.com/NyndoND" target="_blank"></a>
+        <td align="center"><a href="https://github.com/NyndoND" target="_blank"><img style="border-radius: 50%;" src="assets/renann.jpg" width="130px;"><br/><b>Renann de Oliveira</b></a><br /><a href="https://github.com/NyndoND" target="_blank"></a>
         </td>
-        <td align="center"><a href="" target="_blank"><img style="border-radius: 50%;" src="assets/paulo.jpg" width="130px;"><br/><b>Paulo Maciel</b></sub></a><br /><a href="" target="_blank"></a>
+        <td align="center"><a href="" target="_blank"><img style="border-radius: 50%;" src="assets/paulo.jpg" width="130px;"><br/><b>Paulo Maciel</b></a><br /><a href="" target="_blank"></a>
         </td>
         <td align="center"><a href="https://github.com/TiagoBuson" target="_blank"><img style="border-radius: 50%;" src="assets/tiago.jpg" width="130px;"><br /><b>Tiago Buson</b></a><br /><a href="https://github.com/TiagoBuson" target="_blank"></a></td>   
     </tr>
