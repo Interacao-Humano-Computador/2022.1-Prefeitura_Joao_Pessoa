@@ -49,9 +49,10 @@ Esclarecendo alguns pontos da avaliação heurística de Nielsen, a avaliação 
 
 Como já foi dito no planejamento do projeto, utilizando o método DECIDE só resta a última etapa, que é avaliar, como é feito na imagem a seguir
 ![Avaliação Heuristica](../assets/images/ExFormAvalHeuristica.jpeg)
-Figura 1 – Formulário para Avaliação Heurística – Estética e design minimalista (Exemplo)
+<h6>Imagem 1 – Formulário para Avaliação Heurística – Estética e design minimalista (Exemplo)</h6>
+
 ![Avaliação Heuristica](../assets/images/PrefeituraJPPage.jpeg)
-Figura 2 - Página da prefeitura de João Pessoa PB
+<h6>Imagem 2 - Página da prefeitura de João Pessoa PB</h6>
 
 ## Referências Bibliográficas
 
@@ -63,5 +64,5 @@ Site: https://www.joaopessoa.pb.gov.br/
 
 | Data  | Versão |     Descrição      |      Autor      |
 |:-----:|:------:|:------------------:|:---------------:|
-| 08/07 |   V0   | Criação da página  |   Tiago Buson   |
-| 09/07 |  V1.0  | Adição de conteúdo | Nicolas Roberto |
+| 08/07 |   0   | Criação da página  |   [Tiago Buson](https://github.com/TiagoBuson)   |
+| 09/07 |  0.1  | Adição de conteúdo | [Nicolas Roberto](https://github.com/Nicolas-Roberto) |
