@@ -15,13 +15,12 @@ Nessa etapa o foco é observar os site avaliados por cada integrante, entender o
 
 |       Tarefa       | Data limite |  Autor(es)  |   Revisor   |
 |:------------------:|:-----------:|:-----------:|:-----------:|
-|     Cronograma     |    11/07    |   Renann    | Tiago Buson |
-|     Introdução     |    11/07    |    Paulo    | Tiago Buson |
-|    Metodologia     |    11/07    |   Renann    | Tiago Buson |
-|    Ferramentas     |    11/07    | Tiago Buson |   Renann    |
-|   Lista de Sites   |    11/07    |   Nicolas   | Tiago Buson |
-|   Site escolhido   |    11/07    |   Nicolas   | Tiago Buson |
-| Processo de Design |    11/07    |  Gabrielly   | Tiago Buson |
+|     Cronograma     |    11/07    |   Renann    | Gabrielly  |
+|     Introdução     |    11/07    |   Gabrielly | Renann     |
+|    Metodologia     |    11/07    |   Renann    | Tiago      |
+|    Ferramentas     |    11/07    |   Tiago     | Renann    |
+|   Lista de ites e site escolhido |    11/07    | Nicolas   | Tiago |
+| Processo de Design |    11/07    |  Gabrielly  | Nicolas |
 
 ## Apresentação da etapa 2 (21/07)
 Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim podermos desenvolver uma pesquisa mais precisa e específica.
