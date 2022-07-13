@@ -27,6 +27,7 @@ Abaixo darei exemplos de alguns dos principais processos de desgin avalidos pelo
 Baseado em uma visão holística, este processo reune a organização de diferentes atividades proposta pela área de Interação Humano-Computador para orientar o trabalho do design. Esse processo possuí três fases em ciclo que representa as bases do processo de design que são: análise de requisitos; design, avaliação e desenvolvimento e instalação.
 
 ![image](https://user-images.githubusercontent.com/86726332/178078792-d5acc495-aff3-420e-a572-697c73c6d86c.png)
+<h6>Imagem 1: Engenharia de Usabilidade Mayhew</h6>
 
 
 ## 2.2 Ciclo de Vida em Estrela
@@ -34,6 +35,7 @@ Baseado em uma visão holística, este processo reune a organização de diferen
 Proposto por Hartson e Hix em 1989, é composto por 6 principais atividades: avaliação de terefas; prototipação; especificação de requisitos; projeto conceitual e especificação do design; implementação e avaliação. Apesar de definidas, este modelo não especifica uma ordem de execução das tarefas, podendo passar de uma atividade para outra desde que passe primeiro pela atividade de avaliação.
 
 ![image](https://user-images.githubusercontent.com/86726332/178078134-fb9f7ffd-1e6b-45e3-a37f-3c8ba31bcbe1.png)
+<h6>Imagem 2: Ciclo de Vida em Estrela</h6>
 
 ## 2.3 Engenharia de Usabilidade Nielsen
 
@@ -67,4 +69,4 @@ Humano-Computador e Experiência do usuário. Autopublicação.
 | Data  | Versão |      Descrição       |                           Autor                            |
 |:-----:|:------:|:--------------------:|:----------------------------------------------------------:|
 | 08/07 |   V0   |  Criação da página   | [Tiago Buson](https://github.com/TiagoBuson)               |
-| 08/07 |  V1.0  | Criação do documento | [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
+| 08/07 |  V1.0  | Criação do documento | [GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
