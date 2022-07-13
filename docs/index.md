@@ -6,7 +6,7 @@ nav_order: 1
 
 # Prefeitura de João Pessoa
 
-<br>
+<br/>
 
 ![image](https://user-images.githubusercontent.com/86726332/178394865-e1a70c08-9fa8-4711-8446-4aaee23d861f.png)
 
