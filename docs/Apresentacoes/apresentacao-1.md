@@ -15,5 +15,5 @@ nav_order: 1
 
 | Data  | Versão |       Descrição        |    Autor    |
 |:-----:|:------:|:----------------------:|:-----------:|
-| 08/07 |   V0   |   Criação da página    | Tiago Buson |
-| 08/07 |  V1.0  | Adição da apresentação | Tiago Buson |
+| 08/07 |   0   |   Criação da página    | [Tiago](https://github.com/TiagoBuson) |
+| 08/07 |  0.1  | Adição da apresentação |  [Tiago](https://github.com/TiagoBuson) |
