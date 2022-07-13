@@ -6,7 +6,6 @@ nav_order: 1
 
 # Prefeitura de João Pessoa
 
-<br/>
 
 ![image](https://user-images.githubusercontent.com/86726332/178394865-e1a70c08-9fa8-4711-8446-4aaee23d861f.png)
 
@@ -19,7 +18,7 @@ Site dedicado à população de João Pessoa, onde se encontram informações e 
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/GabriellyAssuncao" target="_blank"><img style="border-radius: 50%;" src="assets/gaby2.jpeg" width="130px;"><br /><b>Gabrielly Assunção</a><br /><a href="https://github.com/GabriellyAssuncao" target="_blank"></a>
+        <td align="center"><a href="https://github.com/GabriellyAssuncao" target="_blank"><img style="border-radius: 50%;" src="assets/gaby2.jpeg" width="130px;"><br /><b>Gabrielly Assunção</b></a><br /><a href="https://github.com/GabriellyAssuncao" target="_blank"></a>
         </td>
         <td align="center"><a href="https://github.com/Nicolas-Roberto" target="_blank"><img style="border-radius: 50%;" src="assets/nicolas.jpg" width="130px;"><br /><b>Nicolas Queiroz</b></a><br /><a href="https://github.com/Nicolas-Roberto" target="_blank"></a>
         </td>
