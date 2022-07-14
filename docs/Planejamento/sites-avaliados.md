@@ -17,8 +17,8 @@ Esta seção lista os sites avaliados por cada membro da equipe, disponibilizand
 
 O site do Detran-DF é um portal que tem por objetivo facilitar a emissão de alguns documentos ou a prestação de alguns serviços específicos, tais como: consultar veículos, habilitações, infrações, notícias sobre o DF e entre outros  , contudo devido a sua má implementação de usabilidade, algo simples pode acabar de tornando uma tarefa onerosa.
 
-- [Planejamento da Avaliação - Detran DF]()
-- [Execução da Avaliação - Detran DF]()
+- [Planejamento da Avaliação - Detran DF](../Apresentacoes/avaliacoes_inviduais_sites/Gaby/ProjetoParteIndividualPlanejAvaliçãoGabriellyAssunção.pdf)
+- [Execução da Avaliação - Detran DF](../Apresentacoes/avaliacoes_inviduais_sites/Gaby/ProjetoParteIndividualMetodoeAvaliçãoGabriellyAssuncao.pdf)
 
 ## Qual site?
 ### Sugestão: Nicolas Queiroz
@@ -28,6 +28,9 @@ O site do Detran-DF é um portal que tem por objetivo facilitar a emissão de al
 
 Qual site? 
 
+- [Planejamento da Avaliação](../Apresentacoes/avaliacoes_inviduais_sites/Nicolas/ProjetoParteIndividualPlanejAvaliçãoNicolasRoberto.pdf)
+- [Execução da Avaliação](../Apresentacoes/avaliacoes_inviduais_sites/Nicolas/PlojetoParteIndividualMetodoeAvaliçãoNicolas.pdf)
+
 ## Cidades do Meu Brasil
 ### Sugestão: Nicolas Robesto
 <img width="420" 
@@ -36,8 +39,8 @@ Qual site?
 
 O site Cidades do Meu Brasil reúne diversas informações sobre todas as cidades do Brasil, podendo filtra-las por Estados e obter informações como: nome das cidades, tamanha da área de cada cidade, uma breve descrição do Estado selecionado, localização do Estado e entre outras informações. 
 
-- [Planejamento da Avaliação - Cidades do Meu Brasil]()
-- [Execução da Avaliação - Cidades do Meu Brasil]()
+- [Planejamento da Avaliação - Cidades do Meu Brasil](../Apresentacoes/avaliacoes_inviduais_sites/Paulo/ProjetoParteIndividualPlanejAvaliçãoPauloMaciel.pdf_.pdf)
+- [Execução da Avaliação - Cidades do Meu Brasil](../Apresentacoes/avaliacoes_inviduais_sites/Paulo/PlojetoParteIndividualMetodoeAvaliçãoPauloMaciel.pdf)
 
 ## Code Wars
 ### Sugestão: Renann Gomes
@@ -47,8 +50,8 @@ O site Cidades do Meu Brasil reúne diversas informações sobre todas as cidade
 
 Com o intuito de treinar e ensinar programação por meio de desafios de lógica e enigmas, a plataforma Code Wars começou a ser desenvolvida no final de 2012, desde então formou-se uma comunidade ao seu redor. Na platforma é possível tanto resolver desafios simples quanto desafios mais complexos e além disso possui ferramentas para publição de desafios originais. 
 
-- [Planejamento da Avaliação - Code Wars]()
-- [Execução da Avaliação - Code Wars]()
+- [Planejamento da Avaliação - Code Wars](../Apresentacoes/avaliacoes_inviduais_sites/Renann/ProjetoParteIndividualPlanejAvaliçãoRenannDeOliveira.pdf)
+- [Execução da Avaliação - Code Wars](../Apresentacoes/avaliacoes_inviduais_sites/Renann/PlojetoParteIndividualMetodoInspecaoRenannDeOliveira.pdf)
 
 ## Portal de Informações agropecuárias - Conab
 ### Sugestão: Tiago Buson
@@ -58,8 +61,8 @@ Com o intuito de treinar e ensinar programação por meio de desafios de lógica
   
 O portal de informações agropecuárias é um site da Conab, Companhia Nacional de Abastecimento, é um site informativo com diversos dados da agricultura e pecuária do Brasil, apresentando e ordenando esses dados por meio de gráficos e tabelas interativas.
 
-- [Planejamento da Avaliação - Portal de Informações agropecuárias - Conab]()
-- [Execução da Avaliação - Portal de Informações agropecuárias - Conab]()
+- [Planejamento da Avaliação - Portal de Informações agropecuárias - Conab](../Apresentacoes/avaliacoes_inviduais_sites/Tiago/ProjetoParteIndividualPlanejAvaliaçãoTiagoLeaoBuson.pdf)
+- [Execução da Avaliação - Portal de Informações agropecuárias - Conab](../Apresentacoes/avaliacoes_inviduais_sites/Tiago/PlojetoParteIndividualMetodoeAvaliçãoTiagoLeaoBuson.pdf)
 
 ## Versionamento
 
