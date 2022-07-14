@@ -20,16 +20,16 @@ O site do Detran-DF é um portal que tem por objetivo facilitar a emissão de al
 - [Planejamento da Avaliação - Detran DF](../Apresentacoes/avaliacoes_inviduais_sites/Gaby/ProjetoParteIndividualPlanejAvaliçãoGabriellyAssunção.pdf)
 - [Execução da Avaliação - Detran DF](../Apresentacoes/avaliacoes_inviduais_sites/Gaby/ProjetoParteIndividualMetodoeAvaliçãoGabriellyAssuncao.pdf)
 
-## Qual site?
+## Prefeitura de João Pessoa
 ### Sugestão: Nicolas Queiroz
 <img width="480" 
-       src=""/>
+       src="https://user-images.githubusercontent.com/86726332/178394865-e1a70c08-9fa8-4711-8446-4aaee23d861f.png"/>
   <br>
 
-Qual site? 
+Site dedicado à população de João Pessoa, onde se encontram informações e serviços oferecidos pelo governo local.
 
-- [Planejamento da Avaliação](../Apresentacoes/avaliacoes_inviduais_sites/Nicolas/ProjetoParteIndividualPlanejAvaliçãoNicolasRoberto.pdf)
-- [Execução da Avaliação](../Apresentacoes/avaliacoes_inviduais_sites/Nicolas/PlojetoParteIndividualMetodoeAvaliçãoNicolas.pdf)
+- [Planejamento da Avaliação - Prefeitura de João Pessoa](../Apresentacoes/avaliacoes_inviduais_sites/Nicolas/ProjetoParteIndividualPlanejAvaliçãoNicolasRoberto.pdf)
+- [Execução da Avaliação - Prefeitura de João Pessoa](../Apresentacoes/avaliacoes_inviduais_sites/Nicolas/PlojetoParteIndividualMetodoeAvaliçãoNicolas.pdf)
 
 ## Cidades do Meu Brasil
 ### Sugestão: Nicolas Robesto
