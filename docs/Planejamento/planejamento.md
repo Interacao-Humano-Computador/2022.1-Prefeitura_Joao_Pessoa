@@ -8,4 +8,4 @@ nav_order: 2
 
 | Data  | Versão |     Descrição     |    Autor    |
 |:-----:|:------:|:-----------------:|:-----------:|
-| 08/07 |   0   | Criação da página | [Tiago Buson](https://github.com/TiagoBuson) |
+| 08/07 |   v0   | Criação da página | [Tiago Buson](https://github.com/TiagoBuson) |

@@ -64,5 +64,5 @@ Site: https://www.joaopessoa.pb.gov.br/
 
 | Data  | Versão |     Descrição      |      Autor      |
 |:-----:|:------:|:------------------:|:---------------:|
-| 08/07 |   0   | Criação da página  |   [Tiago Buson](https://github.com/TiagoBuson)   |
-| 09/07 |  0.1  | Adição de conteúdo | [Nicolas Roberto](https://github.com/Nicolas-Roberto) |
+| 08/07 |   v0   | Criação da página  |   [Tiago Buson](https://github.com/TiagoBuson)   |
+| 09/07 |  v0.1  | Adição de conteúdo | [Nicolas Roberto](https://github.com/Nicolas-Roberto) |
