@@ -7,52 +7,67 @@ nav_order: 5
 
 # Sites Avaliados
 
+Esta seção lista os sites avaliados por cada membro da equipe, disponibilizando o planejamento e execução das avaliações:
 
-Esta seção lista as sugestões de sites ecolhidos pelos membros da equipe de forma a escolher o site com as maiores falhas, sendo os seguintes sugeridos:
-
-## Magalu
+## Detran DF
 ### Sugestão: Gabrielly Assunção
 <img width="480" 
-       src="../assets/logos/magalu_logo.png"/>
+       src="https://noticias.damasio.com.br/wp-content/uploads/2020/05/logotipo-detran-df.jpg"/>
   <br>
 
-O Magalu foi criado há mais de 60 anos com uma missão: incluir. Contribuir para que bens, até então, acessíveis a uma classe de privilegiados pudessem chegar a todos os brasileiros. Não se trata apenas de consumo, mas da transformação de vidas por meio do acesso.
+O site do Detran-DF é um portal que tem por objetivo facilitar a emissão de alguns documentos ou a prestação de alguns serviços específicos, tais como: consultar veículos, habilitações, infrações, notícias sobre o DF e entre outros  , contudo devido a sua má implementação de usabilidade, algo simples pode acabar de tornando uma tarefa onerosa.
 
-## OLX
-### Sugestão: Paulo Torres
-<img width="420" 
-       src="../assets/logos/olx_logo.png"/>
-  <br>
-
-OLX é uma empresa global de comércio eletrônico, sediada em Amsterdam, Países Baixos. Presente em 45 países, publicando anúncios classificados na Internet. Foi fundada em março de 2006 pelos empresários Fabrice Grinda e Alejandro Oxenford.
-
-## Havan
-### Sugestão: Renann Gomes
-<img width="420" 
-       src="../assets/logos/havan_logo.png"/>
-  <br>
-
-Fundada em 1986 por Luciano Hang e Vanderlei de Limas, a empresa é conhecida pelas suas lojas com fachadas similares à Arquitetura neogrega e pelas réplicas da Estátua da Liberdade instaladas na frente da maioria das suas filiais. A Havan comercializa artigos nacionais e importados no atacado e no varejo. 
-
-## Codewars
-### Sugestão: Tiago Buson
-<img width="420" 
-       src="../assets/logos/codewars_logo.jpg"/>
-  <br>
-  
-CodeWars é um site onde você pode evoluir suas habilidades de programação, conhecimento da linguagem e até mesmo aprender uma linguagem nova.
+- [Planejamento da Avaliação - Detran DF](../Apresentacoes/avaliacoes_inviduais_sites/Gaby/ProjetoParteIndividualPlanejAvaliçãoGabriellyAssunção.pdf)
+- [Execução da Avaliação - Detran DF](../Apresentacoes/avaliacoes_inviduais_sites/Gaby/ProjetoParteIndividualMetodoeAvaliçãoGabriellyAssuncao.pdf)
 
 ## Prefeitura de João Pessoa
-### Sugestão: Nicolas Robesto
-<img width="420" 
-       src="../assets/logos/joao_pessoa_logo.png"/>
+### Sugestão: Nicolas Queiroz
+<img width="480" 
+       src="https://user-images.githubusercontent.com/86726332/178394865-e1a70c08-9fa8-4711-8446-4aaee23d861f.png"/>
   <br>
 
-O site da Prefeitura de João Pessoa contém notícias sobre a cidade, serviços online, informações uteis e sobre secretárias, além de dar acesso ao portal da transparência da cidade.
+Site dedicado à população de João Pessoa, onde se encontram informações e serviços oferecidos pelo governo local.
+
+- [Planejamento da Avaliação - Prefeitura de João Pessoa](../Apresentacoes/avaliacoes_inviduais_sites/Nicolas/ProjetoParteIndividualPlanejAvaliçãoNicolasRoberto.pdf)
+- [Execução da Avaliação - Prefeitura de João Pessoa](../Apresentacoes/avaliacoes_inviduais_sites/Nicolas/PlojetoParteIndividualMetodoeAvaliçãoNicolas.pdf)
+
+## Cidades do Meu Brasil
+### Sugestão: Nicolas Robesto
+<img width="420" 
+       src="https://www.cidadesdomeubrasil.com.br/img/logo.png"/>
+  <br>
+
+O site Cidades do Meu Brasil reúne diversas informações sobre todas as cidades do Brasil, podendo filtra-las por Estados e obter informações como: nome das cidades, tamanha da área de cada cidade, uma breve descrição do Estado selecionado, localização do Estado e entre outras informações. 
+
+- [Planejamento da Avaliação - Cidades do Meu Brasil](../Apresentacoes/avaliacoes_inviduais_sites/Paulo/ProjetoParteIndividualPlanejAvaliçãoPauloMaciel.pdf_.pdf)
+- [Execução da Avaliação - Cidades do Meu Brasil](../Apresentacoes/avaliacoes_inviduais_sites/Paulo/PlojetoParteIndividualMetodoeAvaliçãoPauloMaciel.pdf)
+
+## Code Wars
+### Sugestão: Renann Gomes
+<img width="420" 
+       src="https://devporai.com.br/wp-content/uploads/2020/05/Screen-Shot-2016-03-28-at-7.51.42-AM.png"/>
+  <br>
+
+Com o intuito de treinar e ensinar programação por meio de desafios de lógica e enigmas, a plataforma Code Wars começou a ser desenvolvida no final de 2012, desde então formou-se uma comunidade ao seu redor. Na platforma é possível tanto resolver desafios simples quanto desafios mais complexos e além disso possui ferramentas para publição de desafios originais. 
+
+- [Planejamento da Avaliação - Code Wars](../Apresentacoes/avaliacoes_inviduais_sites/Renann/ProjetoParteIndividualPlanejAvaliçãoRenannDeOliveira.pdf)
+- [Execução da Avaliação - Code Wars](../Apresentacoes/avaliacoes_inviduais_sites/Renann/PlojetoParteIndividualMetodoInspecaoRenannDeOliveira.pdf)
+
+## Portal de Informações agropecuárias - Conab
+### Sugestão: Tiago Buson
+<img width="420" 
+       src="https://portaldeinformacoes.conab.gov.br/assets/logo.png"/>
+  <br>
+  
+O portal de informações agropecuárias é um site da Conab, Companhia Nacional de Abastecimento, é um site informativo com diversos dados da agricultura e pecuária do Brasil, apresentando e ordenando esses dados por meio de gráficos e tabelas interativas.
+
+- [Planejamento da Avaliação - Portal de Informações agropecuárias - Conab](../Apresentacoes/avaliacoes_inviduais_sites/Tiago/ProjetoParteIndividualPlanejAvaliaçãoTiagoLeaoBuson.pdf)
+- [Execução da Avaliação - Portal de Informações agropecuárias - Conab](../Apresentacoes/avaliacoes_inviduais_sites/Tiago/PlojetoParteIndividualMetodoeAvaliçãoTiagoLeaoBuson.pdf)
 
 ## Versionamento
 
 | Data  | Versão |     Descrição      |      Autor      |
 |:-----:|:------:|:------------------:|:---------------:|
-| 08/07 |   v0   | Criação da página  |   Tiago Buson   |
-| 09/07 |  v1.0  | Adição de conteúdo | Nicolas Roberto |
+| 08/07 |   V0   | Criação da página  |   Tiago Buson   |
+| 09/07 |  V1.0  | Adição de conteúdo | Nicolas Roberto |
+| 13/07 |  V1.1  | Revisão de conteúdo|     Renann      |
