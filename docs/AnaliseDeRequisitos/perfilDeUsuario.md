@@ -8,7 +8,7 @@ nav_order: 1
 # Perfil de Usuário 
 
 Como parte essencial do desenvolvimento do projeto, definir um perfil de usuário é importante para que se possa entender mais sobre os usuários que utilizarão o sistema, deve-se levar em consideração diversas características como: interesse, experiência, faixa etária, conhecimento prévio e entre outros. 
-Tendo em mente que não devemos nos concentrar em apenas sugrupos restritos de usuários como: os "mais experientes" ou "melhores" [1]. Sendo assim levando em consideração que o site analisado se trata de um site oficial de uma prefeitura local, foi realizado um simples questionário para levantar alguns dados do público alvo.
+Tendo em mente que não devemos nos concentrar em apenas subgrupos restritos de usuários como: os "mais experientes" ou "melhores" [1]. Sendo assim levando em consideração que o site analisado se trata de um site oficial de uma prefeitura local, foi realizado um simples questionário para levantar alguns dados do público alvo.
 
 ## Resultados do questionário
 

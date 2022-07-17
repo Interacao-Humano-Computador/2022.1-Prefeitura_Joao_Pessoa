@@ -39,7 +39,7 @@ Tendo em mente os objetivos propostos o método escolhido foi o de inspeção, b
 
 Em relação a questões práticas, foi utilizado um computador Intel i5-10400F, 8gb de Ram e uma internet com velocidade de 240Mb/s.
 
-# Questões Éticas (Decide)
+## Questões Éticas (Decide)
 
 Devido o método utilizado ser o de avaliação heurística, o cuidado ético em relação ao assunto não se mostra necessário, pois não há contato direto com os usuários.
 
@@ -47,14 +47,14 @@ Esclarecendo alguns pontos da avaliação heurística de Nielsen, a avaliação 
 
 ## Avaliação (Evaluate)
 
-Como já foi dito no planejamento do projeto, utilizando o método DECIDE só resta a última etapa, que é avaliar, como é feito na imagem a seguir
+Na **Imagem 1** é apresentado um print da tela inicial do site. Como já foi dito no planejamento do projeto, utilizando o método DECIDE só resta a última etapa, que é avaliar, como é feito na **Imagem 2** a seguir:
 ![Avaliação Heuristica](../assets/images/ExFormAvalHeuristica.jpeg)
-<h6>Imagem 1 – Formulário para Avaliação Heurística – Estética e design minimalista (Exemplo)</h6>
+<h6>Imagem 1 – Página da prefeitura de João Pessoa PB</h6>
 
 ![Avaliação Heuristica](../assets/images/PrefeituraJPPage.jpeg)
-<h6>Imagem 2 - Página da prefeitura de João Pessoa PB</h6>
+<h6>Imagem 2 -  Formulário para Avaliação Heurística – Estética e design minimalista (Exemplo)</h6>
 
-## Referências Bibliográficas
+## Referências 
 
 Livro: Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. –Rio de Janeiro: Elsevier, 2010.il. - (Série SBC, Sociedade Brasileira de Computação)
 

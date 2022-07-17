@@ -24,18 +24,18 @@ Abaixo darei exemplos de alguns dos principais processos de desgin avalidos pelo
 
 ## 2.1 Engenharia de Usabilidade Mayhew
 
-Baseado em uma visão holística, este processo reune a organização de diferentes atividades proposta pela área de Interação Humano-Computador para orientar o trabalho do design. Esse processo possuí três fases em ciclo que representa as bases do processo de design que são: análise de requisitos; design, avaliação e desenvolvimento e instalação.
+Baseado em uma visão holística, este processo reune a organização de diferentes atividades proposta pela área de Interação Humano-Computador para orientar o trabalho do design. Esse processo possuí três fases em ciclo que representa as bases do processo de design que são: análise de requisitos; design, avaliação e desenvolvimento e instalação. A **Imagem 1** ilustra esse processo, a seguir:
 
 ![image](https://user-images.githubusercontent.com/86726332/178078792-d5acc495-aff3-420e-a572-697c73c6d86c.png)
-<h6>Imagem 1: Engenharia de Usabilidade Mayhew</h6>
+<h6>Imagem 1: Engenharia de Usabilidade Mayhew [1]</h6>
 
 
 ## 2.2 Ciclo de Vida em Estrela
 
-Proposto por Hartson e Hix em 1989, é composto por 6 principais atividades: avaliação de terefas; prototipação; especificação de requisitos; projeto conceitual e especificação do design; implementação e avaliação. Apesar de definidas, este modelo não especifica uma ordem de execução das tarefas, podendo passar de uma atividade para outra desde que passe primeiro pela atividade de avaliação.
+Proposto por Hartson e Hix em 1989, é composto por 6 principais atividades: avaliação de terefas; prototipação; especificação de requisitos; projeto conceitual e especificação do design; implementação e avaliação. Apesar de definidas, este modelo não especifica uma ordem de execução das tarefas, podendo passar de uma atividade para outra desde que passe primeiro pela atividade de avaliação. A **Imagem 2** ilustra esse ciclo abaixo:
 
 ![image](https://user-images.githubusercontent.com/86726332/178078134-fb9f7ffd-1e6b-45e3-a37f-3c8ba31bcbe1.png)
-<h6>Imagem 2: Ciclo de Vida em Estrela</h6>
+<h6>Imagem 2: Ciclo de Vida em Estrela [1]</h6>
 
 ## 2.3 Engenharia de Usabilidade Nielsen
 
@@ -57,9 +57,9 @@ Apesar dos cinco atributos de Nielsen sejam desejados, nem sempre se consegue co
 
 A partir da análise feita em cada um dos principais processos citados, o grupo optou pela Engenharia de Usabilidade Mayhew, avaliamos ser a mais simples, possuindo uma ideia clara de utilização e completa a níveis de iteração.
 
-# Bibliografia
+# Referências
 
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier, Rio de Janeiro, 2010.
+[1]BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
 Humano-Computador e Experiência do usuário. Autopublicação.

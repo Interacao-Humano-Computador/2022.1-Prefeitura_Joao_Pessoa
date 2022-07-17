@@ -32,7 +32,7 @@ Site dedicado à população de João Pessoa, onde se encontram informações e 
 - [Execução da Avaliação - Prefeitura de João Pessoa](../Apresentacoes/avaliacoes_inviduais_sites/Nicolas/PlojetoParteIndividualMetodoeAvaliçãoNicolas.pdf)
 
 ## Cidades do Meu Brasil
-### Sugestão: Nicolas Robesto
+### Sugestão: Nicolas Roberto
 <img width="420" 
        src="https://www.cidadesdomeubrasil.com.br/img/logo.png"/>
   <br>
