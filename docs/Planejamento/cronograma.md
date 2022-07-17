@@ -23,7 +23,7 @@ Nessa etapa o foco é observar os site avaliados por cada integrante, entender o
 | Processo de Design |    11/07    |  Gabrielly  | Nicolas |
 
 ## Apresentação da etapa 2 (21/07)
-Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim podermos desenvolver uma pesquisa mais precisa e específica.
+Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim podermos desenvolver uma solução mais precisa e específica.
 
 |                     Tarefa                      | Data limite |    Autor(es)     | Revisor |
 |:-----------------------------------------------:|:-----------:|:----------------:|:-------:|
@@ -95,5 +95,5 @@ Apresentação final do projeto da disciplina
 
 | Data  | Versão |     Descrição      |    Autor    |
 |:-----:|:------:|:------------------:|:-----------:|
-| 08/07 |   V0   | Criação da página  | Tiago Buson |
-| 10/07 |  V1.0  | Adição de conteudo |   Rennan    |
+| 08/07 |   v0   | Criação da página  | Tiago Buson |
+| 10/07 |  v1.0  | Adição de conteudo |   Rennan    |

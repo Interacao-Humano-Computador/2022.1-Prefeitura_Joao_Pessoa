@@ -54,5 +54,5 @@ O site da Prefeitura de João Pessoa contém notícias sobre a cidade, serviços
 
 | Data  | Versão |     Descrição      |      Autor      |
 |:-----:|:------:|:------------------:|:---------------:|
-| 08/07 |   V0   | Criação da página  |   Tiago Buson   |
-| 09/07 |  V1.0  | Adição de conteúdo | Nicolas Roberto |
+| 08/07 |   v0   | Criação da página  |   Tiago Buson   |
+| 09/07 |  v1.0  | Adição de conteúdo | Nicolas Roberto |

@@ -40,5 +40,5 @@ Repositório destinado à disciplina de Interação Humano-Computador do curso d
 
 | Data  | Versão |     Descrição     |    Autor    |
 |:-----:|:------:|:-----------------:|:-----------:|
-| 08/07 |   0   | Criação da página | [Tiago Buson](https://github.com/TiagoBuson) |
-| 12/07 |   0.1   | adicionando equipes | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
+| 08/07 |   v0   | Criação da página | [Tiago Buson](https://github.com/TiagoBuson) |
+| 12/07 |   v0.1   | adicionando equipes | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
