@@ -23,3 +23,4 @@ nav_order: 4
 |:-----:|:------:|:----------------------------------------------:|:-----------:|
 | 08/07 |   v0   | Criação da página, com as ferramentas iniciais | Tiago Buson |
 | 13/07 |   v0.1   | Adição de outras ferramentas | Renann |
+
