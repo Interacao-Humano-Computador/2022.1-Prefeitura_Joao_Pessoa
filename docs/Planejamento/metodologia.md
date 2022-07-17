@@ -77,3 +77,4 @@ Durante a elaboração desse documento alguns documentos de metodologia de equip
 | 08/07 |   0   | Criação da página  | [Tiago](https://github.com/TiagoBuson)|
 | 10/07 |  0.1  | Adição de conteudo |   [Rennan](https://github.com/NyndoND)|
 | 13/07 |  0.1.1  | Correção de conteúdo |   [Rennan](https://github.com/NyndoND)|
+
