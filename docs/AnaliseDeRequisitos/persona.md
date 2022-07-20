@@ -22,7 +22,7 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 
 <figcaption align='center'>
   <h5>  <b>Figura 1: Foto de Matheus</b><br> </h5>
-  <small>Fonte: This person does not exist </small>
+  <small>Fonte: This person does not exist [1]</small>
 </figcaption>
 
 
@@ -47,7 +47,7 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 
 <figcaption align='center'>
   <h5>  <b>Figura 2: Foto de Cristina</b><br> </h5>
-  <small>Fonte: This person does not exist </small>
+  <small>Fonte: This person does not exist [1] </small>
 </figcaption>
 
 | Persona | Cristina Almeida |
@@ -72,7 +72,7 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 
 <figcaption align='center'>
   <h5>  <b>Figura 3: Foto de Rodolfo</b><br> </h5>
-  <small>Fonte: This person does not exist </small>
+  <small>Fonte: This person does not exist [1] </small>
 </figcaption>
 
 | Persona | Rodolfo Pinto |
@@ -97,7 +97,7 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 
 <figcaption align='center'>
   <h5>  <b>Figura 4: Foto de Ana Paula</b><br> </h5>
-  <small>Fonte: This person does not exist </small>
+  <small>Fonte: This person does not exist [1] </small>
 </figcaption>
 
 | Persona | Ana Paula Macedo |
@@ -120,7 +120,7 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 
 Livro: Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. –Rio de Janeiro: Elsevier, 2010.il. - (Série SBC, Sociedade Brasileira de Computação)
 
-Site: thispersondoesnotexist.com 
+[1] Site: thispersondoesnotexist.com 
 
 ## Versionamento
 
