@@ -12,11 +12,11 @@ nav_order: 2
 
 ## Elenco de personas
 
-<p align="justify">É importante representar os principais grupos de usuários, para ajudar no desenvolvimento de um sistema para todos, sem viés. Devemos tomar cuidado na escolha do número de personas, Courage e Baxter (2005) nos alertam sobre essa precaução, pois se o número de personas for muito grande algum grupo pode enviesar o resultado, em contra ponto se a quantidade for pequena haverá a possibilidade de não ter sido englobado todos os grupos de usuários.
+<p> align="justify">É importante representar os principais grupos de usuários, para ajudar no desenvolvimento de um sistema para todos, sem viés. Devemos tomar cuidado na escolha do número de personas, Courage e Baxter (2005) nos alertam sobre essa precaução, pois se o número de personas for muito grande algum grupo pode enviesar o resultado, em contra ponto se a quantidade for pequena haverá a possibilidade de não ter sido englobado todos os grupos de usuários.
 O Elenco de personas será utilizado no projeto para representar os grupos de usuários finais do site avaliado trazendo a perspectiva de pessoas reais utilizando o site, servindo de auxílio no desenvolvimento da avaliação.
 </p>
 
-#### 2.1 Persona 1 
+### 2.1 Persona 1 
 
 <center> <img  src="../assets/personas/Matheus.jpg" class="center-align" min-width="300" height = "200"> </center>
 
@@ -41,7 +41,7 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
   <h5>  <b>Tabela 1: Informações da Persona 1 - Matheus</b><br> </h5>
 </figcaption>
 
-#### 2.2 Persona 2 
+### 2.2 Persona 2 
 
 <center> <img  src="../assets/personas/Cristina.jpg" class="center-align" min-width="300" height = "200"> </center>
 
@@ -66,7 +66,7 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 </figcaption>
 
 
-#### 2.3 Persona 3 
+### 2.3 Persona 3 
 
 <center> <img  src="../assets/personas/Rodolfo.jpg" class="center-align" min-width="300" height = "200"> </center>
 
@@ -91,7 +91,7 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 </figcaption>
 
 
-#### 2.4 Persona 4
+### 2.4 Persona 4
 
 <center> <img  src="../assets/personas/Ana.jpg" class="center-align" min-width="300" height = "200"> </center>
 
