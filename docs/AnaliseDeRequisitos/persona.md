@@ -128,3 +128,4 @@ Site: thispersondoesnotexist.com
 |:-----:|:------:|:-----------------:|:-----------:|
 | 20/07 |   v0   | Criação da página | [Paulo](https://github.com/PauloMacielTorresFilho) |
 | 20/07 |   v1   | Adição do conteúdo da página  | [Nicolas](https://github.com/Nicolas-Roberto) - [Paulo](https://github.com/PauloMacielTorresFilho)|
+| 20/07 |   v1.1  | Adição de legenda das tabelas e imagens  | [Nicolas](https://github.com/Nicolas-Roberto) - [Paulo](https://github.com/PauloMacielTorresFilho)|
