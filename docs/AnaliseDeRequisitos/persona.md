@@ -2,7 +2,7 @@
 title: Personas
 parent: Análise de Requisitos
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Personas
@@ -20,6 +20,12 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 
 <center> <img  src="../assets/personas/Matheus.jpg" class="center-align" min-width="300", height = "200"> </center>
 
+<figcaption align='center'>
+  <h5>  <b>Figura 1: Foto de Matheus</b><br> </h5>
+  <small>Fonte: This person does not exist </small>
+</figcaption>
+
+
 | Persona | Matheus Soares |
 |---------|--------------------|
 | Status: | Persona Primária |
@@ -31,9 +37,18 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 | Tarefas: | Deseja ter acesso ao site para obter informações sobre programas sociais |
 | Expectativas: | Espera que o sistema seja acessível pelo celular e atualizado  |
 
+<figcaption align='center'>
+  <h5>  <b>Tabela 1: Informações da Persona 1 - Matheus</b><br> </h5>
+</figcaption>
+
 #### 2.2 Persona 2 
 
 <center> <img  src="../assets/personas/Cristina.jpg" class="center-align" min-width="300", height = "200"> </center>
+
+<figcaption align='center'>
+  <h5>  <b>Figura 2: Foto de Cristina</b><br> </h5>
+  <small>Fonte: This person does not exist </small>
+</figcaption>
 
 | Persona | Cristina Almeida |
 |---------|--------------------|
@@ -43,12 +58,22 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 | Profissão: | Professora |
 | Escolaridade: | Ensino Superior completo |
 | Habilidades: | Facilidade com escrita e boa comunicação |
-| Tarefas: | Deseja ter acesso ao site, para ter informações sobre número de casos de covid e notícias em geral |
+| Tarefas: | Deseja ter acesso ao site para ter informações sobre número de casos de covid e notícias em geral |
 | Expectativas: | Espera que o sistema seja de facil utilização e atualizado |
+
+<figcaption align='center'>
+  <h5>  <b>Tabela 2: Informações da Persona 2 - Cristina</b><br> </h5>
+</figcaption>
+
 
 #### 2.3 Persona 3 
 
 <center> <img  src="../assets/personas/Rodolfo.jpg" class="center-align" min-width="300", height = "200"> </center>
+
+<figcaption align='center'>
+  <h5>  <b>Figura 3: Foto de Rodolfo</b><br> </h5>
+  <small>Fonte: This person does not exist </small>
+</figcaption>
 
 | Persona | Rodolfo Pinto |
 |---------|--------------------|
@@ -58,12 +83,22 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 | Profissão: | Auxiliar administrativo |
 | Escolaridade: | Ensino Superior Incompleto |
 | Habilidades: | Facilidade com escrita e lógica de programação |
-| Tarefas: | Deseja ter acesso ao site para saber os gastos da cidade,ter informações sobre os casos de covid e ter acesso as principais notícias da cidade. |
+| Tarefas: | Deseja ter acesso ao site para saber os gastos da cidade, ter informações sobre os casos de covid e ter acesso as principais notícias da cidade. |
 | Expectativas: | Espera que o sistema seja atual e de facil entendimento, para a compreenção do público comum  |
+
+<figcaption align='center'>
+  <h5>  <b>Tabela 3: Informações da Persona 3 - Rodolfo</b><br> </h5>
+</figcaption>
+
 
 #### 2.4 Persona 4
 
 <center> <img  src="../assets/personas/Ana.jpg" class="center-align" min-width="300", height = "200"> </center>
+
+<figcaption align='center'>
+  <h5>  <b>Figura 4: Foto de Ana Paula</b><br> </h5>
+  <small>Fonte: This person does not exist </small>
+</figcaption>
 
 | Persona | Ana Paula Macedo |
 |---------|--------------------|
@@ -75,6 +110,11 @@ O Elenco de personas será utilizado no projeto para representar os grupos de us
 | Habilidades: | Fotografia e Dialética |
 | Tarefas: | Divulgação de sua marca |
 | Expectativas: | Não tem expectativas em relação ao site |
+
+<figcaption align='center'>
+  <h5>  <b>Tabela 4: Informações da Persona 4 - Ana Paula</b><br> </h5>
+</figcaption>
+
 
 ## Referências 
 
