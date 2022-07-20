@@ -45,3 +45,14 @@ GOAL 0: Obter informações sobre programas sociais
         OP 2.2: clicar no link "Cadastro Único para Programas Sociais"
 ```
 
+## Referências 
+
+Livro: Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. –Rio de Janeiro: Elsevier, 2010.il. - (Série SBC, Sociedade Brasileira de Computação) 
+
+## Versionamento
+
+| Data  | Versão |     Descrição     |    Autor    |
+|:-----:|:------:|:-----------------:|:-----------:|
+| 20/07 |   v0   | Criação da página | [Paulo](https://github.com/PauloMacielTorresFilho) |
+| 20/07 |   v1   | Adição do conteúdo da página  | [Nicolas](https://github.com/Nicolas-Roberto) - [Paulo](https://github.com/PauloMacielTorresFilho)|
+
