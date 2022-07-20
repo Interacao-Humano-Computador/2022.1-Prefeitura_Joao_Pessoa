@@ -23,7 +23,7 @@ Nessa etapa o foco é observar os site avaliados por cada integrante, entender o
 |    Processo de Design   |    11/07    |  Gabrielly  | Nicolas   |
 
 <figcaption align='center'>
-  <h6>  <b>Figura 1: Cronograma de tarefas da Apresentação 1.</b><br><h6>
+  <h6>  <b>Figura 1: Cronograma de tarefas da Apresentação 1.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -38,7 +38,7 @@ Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim
 |          Personas e Análise de tarefas          |    20/07    | Nicolas e Paulo  | Renann  |
 
 <figcaption align='center'>
-   <h6> <b>Figura 2: Cronograma de tarefas da Apresentação 2.</b><br><h6>
+   <h6> <b>Figura 2: Cronograma de tarefas da Apresentação 2.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -53,7 +53,7 @@ Nessa etapa é avaliado quais metas devem ser atingidas e define o guia de estil
 |        Guia de Estilo        |    01/08    |       Tiago       |  Paulo  |
 
 <figcaption align='center'>
-  <h6><b>Figura 3: Cronograma de tarefas da Apresentação 3.</b><br><h6>
+  <h6><b>Figura 3: Cronograma de tarefas da Apresentação 3.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -69,7 +69,7 @@ Nessa etapa avalia-se o storyboard e análise de tarefas. A seguir a *figura 4* 
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas |    11/08    |  Tiago e Paulo   | Paulo |
 
 <figcaption align='center'>
-   <h6> <b>Figura 4: Cronograma de tarefas da Apresentação 4.</b><br><h6>
+   <h6> <b>Figura 4: Cronograma de tarefas da Apresentação 4.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -84,7 +84,7 @@ Nessa etapa com base nos resultados da etapa anterior planeja-se a avaliação d
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |    17/08    |     Nicolas      |  Tiago  |
 
 <figcaption align='center'>
-   <h6> <b>Figura 5: Cronograma de tarefas da Apresentação 5.</b><br><h6>
+   <h6> <b>Figura 5: Cronograma de tarefas da Apresentação 5.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -97,7 +97,7 @@ Nessa etapa será feita uma verificação e revisão de todos os artefatos gerad
 | Verificação dos artefatos |    22/08    | Todos os integrantes | Todos os integrantes |
   
 <figcaption align='center'>
- <h6><b>Figura 6: Cronograma de tarefas da Apresentação 6</b><br><h6>
+ <h6><b>Figura 6: Cronograma de tarefas da Apresentação 6</b><br></h6>
   <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -112,7 +112,7 @@ Nessa etapa o foco é a elaboração de um protótipo de alta fidelidade e plane
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade. |    05/09    |  Tiago e Paulo   | Renann  |
 
 <figcaption align='center'>
- <h6><b>Figura 7: Cronograma de tarefas da Apresentação 7</b><br><h6>
+ <h6><b>Figura 7: Cronograma de tarefas da Apresentação 7</b><br></h6>
   <small>Fonte: Elaboração Própria</small>
  </figcaption>
  
@@ -125,7 +125,7 @@ Apresentação final do projeto da disciplina. A seguir a *figura 8* apresenta u
 | Entrega do projeto final |    12/09    | Todos os integrantes | Todos os integrantes |
 
 <figcaption align='center'>
- <h6> <b>Figura 8: Cronograma de tarefas da Apresentação Final</b><br><h6>
+ <h6> <b>Figura 8: Cronograma de tarefas da Apresentação Final</b><br></h6>
   <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
