@@ -2,7 +2,7 @@
 title: Personas
 parent: Análise de Requisitos
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
  
 # Personas
@@ -12,7 +12,7 @@ nav_order: 2
  
 ## Elenco de personas
  
-<p> align="justify">É importante representar os principais grupos de usuários, para ajudar no desenvolvimento de um sistema para todos, sem viés. Devemos tomar cuidado na escolha do número de personas, Courage e Baxter (2005) nos alertam sobre essa precaução, pois se o número de personas for muito grande algum grupo pode enviesar o resultado, em contraponto se a quantidade for pequena haverá a possibilidade de não ter sido englobado todos os grupos de usuários.
+<p align="justify">É importante representar os principais grupos de usuários, para ajudar no desenvolvimento de um sistema para todos, sem viés. Devemos tomar cuidado na escolha do número de personas, Courage e Baxter (2005) nos alertam sobre essa precaução, pois se o número de personas for muito grande algum grupo pode enviesar o resultado, em contraponto se a quantidade for pequena haverá a possibilidade de não ter sido englobado todos os grupos de usuários.
 O elenco de personas será utilizado no projeto para representar os grupos de usuários finais do site avaliado trazendo a perspectiva de pessoas reais utilizando o site, servindo de auxílio no desenvolvimento da avaliação.
 </p>
  
