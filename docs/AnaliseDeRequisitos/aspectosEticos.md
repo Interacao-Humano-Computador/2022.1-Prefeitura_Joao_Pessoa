@@ -7,7 +7,7 @@ nav_order: 2
 
 # Termo de consentimento
 
-![Link do termo de consentimento](https://github.com/Interacao-Humano-Computador/2022.1-Prefeitura_Joao_Pessoa/blob/main/docs/assets/Termo_de_Consentimento.pdf)
+[Link do termo de consentimento](https://github.com/Interacao-Humano-Computador/2022.1-Prefeitura_Joao_Pessoa/blob/main/docs/assets/Termo_de_Consentimento.pdf)
 
 
 ## Versionamento
