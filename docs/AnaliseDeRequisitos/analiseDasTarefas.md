@@ -55,4 +55,6 @@ Livro: Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno San
 |:-----:|:------:|:-----------------:|:-----------:|
 | 20/07 |   v0   | Criação da página | [Paulo](https://github.com/PauloMacielTorresFilho) |
 | 20/07 |   v1   | Adição do conteúdo da página  | [Nicolas](https://github.com/Nicolas-Roberto) - [Paulo](https://github.com/PauloMacielTorresFilho)|
+| 20/07 |   v1.1   | Revisão  | [Rennan](https://github.com/NyndoND) |
+
 
