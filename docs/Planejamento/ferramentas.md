@@ -7,6 +7,10 @@ nav_order: 4
 
 # Ferramentas Utilizadas
 
+# Introdução
+
+Durante o desenvolvimento do projeto essas serão as principais ferramentas utilizadas, claro que novas ferramentas que forem úteis podem vir a ser adicionadas futuramente, todas as ferramentas são de uso gratuito e podem ser acessadas facilmente por qualquer integrante do grupo.
+
 | Ferramenta                                           | Nome                                                                                  | Descrição                                                                                            |
 |------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | ![GitHub_logo](../assets/logos/GitHub.png)           | [GitHub](https://github.com)                                                          | Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto        |

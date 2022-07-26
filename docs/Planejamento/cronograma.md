@@ -11,7 +11,7 @@ Com o objetivo de organizar e planejar as tarefas a serem entregadas, foi elabor
 
 ## Apresentação da etapa 1 (12/07)
 
-Nessa etapa o foco é observar os site avaliados por cada integrante, entender o problema e definir o escopo principal do projeto. A seguir a *figura 1* apresenta um cronograma para entrega dessas tarefas.
+Nessa etapa o foco é observar os site avaliados por cada integrante, entender o problema e definir o escopo principal do projeto. A seguir a *tabela 1* apresenta um cronograma para entrega dessas tarefas.
 
 |       Tarefa       | Data limite |  Autor(es)  |   Revisor   |
 |:------------------:|:-----------:|:-----------:|:-----------:|
@@ -23,13 +23,13 @@ Nessa etapa o foco é observar os site avaliados por cada integrante, entender o
 |    Processo de Design   |    11/07    |  Gabrielly  | Nicolas   |
 
 <figcaption align='center'>
-  <h6>  <b>Figura 1: Cronograma de tarefas da Apresentação 1.</b><br></h6>
+  <h6>  <b>Tabela 1: Cronograma de tarefas da Apresentação 1.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 ## Apresentação da etapa 2 (21/07)
 
-Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim podermos desenvolver uma pesquisa mais precisa e específica. A seguir a *figura 2* apresenta um cronograma para entrega dessas tarefas
+Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim podermos desenvolver uma pesquisa mais precisa e específica. A seguir a *tabela 2* apresenta um cronograma para entrega dessas tarefas
 
 |                     Tarefa                      | Data limite |    Autor(es)     | Revisor |
 |:-----------------------------------------------:|:-----------:|:----------------:|:-------:|
@@ -38,13 +38,13 @@ Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim
 |          Personas e Análise de tarefas          |    20/07    | Nicolas e Paulo  | Renann  |
 
 <figcaption align='center'>
-   <h6> <b>Figura 2: Cronograma de tarefas da Apresentação 2.</b><br></h6>
+   <h6> <b>Tabela 2: Cronograma de tarefas da Apresentação 2.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 ## Apresentação da etapa 3 (02/08)
 
-Nessa etapa é avaliado quais metas devem ser atingidas e define o guia de estilo. A seguir a *figura 3* apresenta um cronograma para entrega dessas tarefas.
+Nessa etapa é avaliado quais metas devem ser atingidas e define o guia de estilo. A seguir a *tabela 3* apresenta um cronograma para entrega dessas tarefas.
 
 |            Tarefa            | Data limite |     Autor(es)     | Revisor |
 |:----------------------------:|:-----------:|:-----------------:|:-------:|
@@ -53,13 +53,13 @@ Nessa etapa é avaliado quais metas devem ser atingidas e define o guia de estil
 |        Guia de Estilo        |    01/08    |       Tiago       |  Paulo  |
 
 <figcaption align='center'>
-  <h6><b>Figura 3: Cronograma de tarefas da Apresentação 3.</b><br></h6>
+  <h6><b>Tabela 3: Cronograma de tarefas da Apresentação 3.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 ## Apresentação da etapa 4 (09/08)
 
-Nessa etapa avalia-se o storyboard e análise de tarefas. A seguir a *figura 4* apresenta um cronograma para entrega dessas tarefas.
+Nessa etapa avalia-se o storyboard e análise de tarefas. A seguir a *tabela 4* apresenta um cronograma para entrega dessas tarefas.
 
 |                                  Tarefa                                  | Data limite |    Autor(es)     | Revisor  |
 |:------------------------------------------------------------------------:|:-----------:|:----------------:|:--------:|
@@ -69,13 +69,13 @@ Nessa etapa avalia-se o storyboard e análise de tarefas. A seguir a *figura 4* 
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas |    11/08    |  Tiago e Paulo   | Paulo |
 
 <figcaption align='center'>
-   <h6> <b>Figura 4: Cronograma de tarefas da Apresentação 4.</b><br></h6>
+   <h6> <b>Tabela 4: Cronograma de tarefas da Apresentação 4.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 ## Apresentação da etapa 5 (18/08)
 
-Nessa etapa com base nos resultados da etapa anterior planeja-se a avaliação do protótipo e a avaliação da análise de tarefas. A seguir a *figura 5* apresenta um cronograma para entrega dessas tarefas.
+Nessa etapa com base nos resultados da etapa anterior planeja-se a avaliação do protótipo e a avaliação da análise de tarefas. A seguir a *tabela 5* apresenta um cronograma para entrega dessas tarefas.
 
 |                                  Tarefa                                  | Data limite |    Autor(es)     | Revisor |
 |:------------------------------------------------------------------------:|:-----------:|:----------------:|:-------:|
@@ -84,26 +84,26 @@ Nessa etapa com base nos resultados da etapa anterior planeja-se a avaliação d
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |    17/08    |     Nicolas      |  Tiago  |
 
 <figcaption align='center'>
-   <h6> <b>Figura 5: Cronograma de tarefas da Apresentação 5.</b><br></h6>
+   <h6> <b>Tabela 5: Cronograma de tarefas da Apresentação 5.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 ## Apresentação da etapa 6 (23/08)
 
-Nessa etapa será feita uma verificação e revisão de todos os artefatos gerados. A seguir a *figura 6* apresenta um cronograma para entrega dessas tarefas.
+Nessa etapa será feita uma verificação e revisão de todos os artefatos gerados. A seguir a *tabela 6* apresenta um cronograma para entrega dessas tarefas.
 
 |          Tarefa           | Data limite |      Autor(es)       |       Revisor        |
 |:-------------------------:|:-----------:|:--------------------:|:--------------------:|
 | Verificação dos artefatos |    22/08    | Todos os integrantes | Todos os integrantes |
   
 <figcaption align='center'>
- <h6><b>Figura 6: Cronograma de tarefas da Apresentação 6</b><br></h6>
+ <h6><b>Tabela 6: Cronograma de tarefas da Apresentação 6</b><br></h6>
   <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 ## Apresentação da etapa 7 (06/09)
 
-Nessa etapa o foco é a elaboração de um protótipo de alta fidelidade e planejar possíveis melhorias para a entrega do projeto. A seguir a *figura 7* apresenta um cronograma para entrega dessas tarefas.
+Nessa etapa o foco é a elaboração de um protótipo de alta fidelidade e planejar possíveis melhorias para a entrega do projeto. A seguir a *tabela 7* apresenta um cronograma para entrega dessas tarefas.
 
 |                                       Tarefa                                        | Data limite |    Autor(es)     | Revisor |
 |:-----------------------------------------------------------------------------------:|:-----------:|:----------------:|:-------:|
@@ -112,20 +112,20 @@ Nessa etapa o foco é a elaboração de um protótipo de alta fidelidade e plane
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade. |    05/09    |  Tiago e Paulo   | Renann  |
 
 <figcaption align='center'>
- <h6><b>Figura 7: Cronograma de tarefas da Apresentação 7</b><br></h6>
+ <h6><b>Tabela 7: Cronograma de tarefas da Apresentação 7</b><br></h6>
   <small>Fonte: Elaboração Própria</small>
  </figcaption>
  
 ## Apresentações finais (13/09 e 15/09 e 20/09)
 
-Apresentação final do projeto da disciplina. A seguir a *figura 8* apresenta um cronograma para entrega dessas tarefas.
+Apresentação final do projeto da disciplina. A seguir a *tabela 8* apresenta um cronograma para entrega dessas tarefas.
 
 |          Tarefa          | Data limite |      Autor(es)       |       Revisor        |
 |:------------------------:|:-----------:|:--------------------:|:--------------------:|
 | Entrega do projeto final |    12/09    | Todos os integrantes | Todos os integrantes |
 
 <figcaption align='center'>
- <h6> <b>Figura 8: Cronograma de tarefas da Apresentação Final</b><br></h6>
+ <h6> <b>Tabela 8: Cronograma de tarefas da Apresentação Final</b><br></h6>
   <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
