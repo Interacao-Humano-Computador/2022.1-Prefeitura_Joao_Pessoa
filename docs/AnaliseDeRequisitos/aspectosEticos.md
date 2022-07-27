@@ -19,12 +19,15 @@ significativas para os participantes da pesquisa.
 Dessa forma criamos o termo de consentimento abaixo levando em consideração tais princípios.
 # Termo de consentimento
 
-[Link do termo de consentimento](https://github.com/Interacao-Humano-Computador/2022.1-Prefeitura_Joao_Pessoa/blob/main/docs/assets/Termo_de_Consentimento.pdf)
+[Termo de Consentimento.](https://github.com/Interacao-Humano-Computador/2022.1-Prefeitura_Joao_Pessoa/blob/main/docs/assets/Termo_de_Consentimento.pdf)
 
+# Referências
 
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier, Rio de Janeiro, 2010.
 ## Versionamento
 
 | Data  | Versão |                    Descrição                    |    Autor    |
 |:-----:|:------:|:-----------------------------------------------:|:-----------:|
 | 20/07 |   v0   | Criação da página, com o termo de consentimento | [Tiago Buson]() |
 | 25/07 |   v0.1   | Texto de introdução| [Gabrielly Assuncao](https://github.com/GabriellyAssuncao)  |
+| 27/07 |   v0.2   | Inserindo bibliografia| [Gabrielly Assuncao](https://github.com/GabriellyAssuncao)  |
