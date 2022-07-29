@@ -58,3 +58,4 @@ Repositórios de semestre anteriores que serviram de grande ajuda para essa docu
 | Data  | Versão |     Descrição     |    Autor    |
 |:-----:|:------:|:-----------------:|:-----------:|
 | 26/07 |   v0   | Criação da página e conteúdo inicial | [Renann](https://github.com/NyndoND) |
+| 29/07 |   v0.1   | Introdução | [Gabrielly](https://github.com/GabriellyAssuncao) |
